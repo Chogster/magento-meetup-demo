@@ -1,0 +1,5 @@
+<config>
+    <type name="Magento\Quote\Model\Quote">
+        <plugin name="demo_add_product_after" type="Bartu\Demo\Plugin\AddProductAfter" sortOrder="1" disabled="false" />
+    </type>
+</config>
